@@ -1,0 +1,5 @@
+CacheControl==0.11.7
+imdbpie==4.2.0
+lockfile==0.12.2
+requests==2.11.1
+six==1.10.0
